@@ -1,0 +1,55 @@
+DURANGO,Poanas,FRANCISCO ARROYO ARAMBULA,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,$                 350.00
+DURANGO,Poanas,FELICIANO TERRONES PEREZ,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,ELADIO PULGARIN VALADEZ,EL TESORO,Francisco Zarco,Bovino Carne,FISICA,"$             2,100.00"
+DURANGO,Poanas,DELFINO MORENO JARA,18 DE AGOSTO,18 de Agosto,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,CESAR ALBERTO ZAVALA SAUCEDO,EJ ESTACION POANAS,Estaci#n Poanas,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,MARIA HERMINIA GONZALEZ GUTIERREZ,EJIDO NARCISO MENDOZA,Narciso Mendoza,Bovino Carne,FISICA,$                 350.00
+DURANGO,Poanas,ROSA PATRICIA CELIS RIOS,EJ LOS ANGELES POANAS,Los #ngeles,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,JOSE ELOCADIO LARA GALLEGOS,EJ LOS ANGELES POANAS,Los #ngeles,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Poanas,PASCUAL FUENTES ONTIVEROS,18 DE AGOSTO,18 de Agosto,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,JAVIER SAUCEDO QUINONES,EJ ESTACION POANAS,Estaci#n Poanas,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,ANGEL CALDERON ARAMBULA,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,PERFECTO GARCIA BARRON,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,RENE SALAZAR MARTINEZ,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Poanas,MIGUEL ANGEL PEREZ ALVAREZ,SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,NORMA MARTINEZ RODRIGUEZ,LOTE NO. 2 ANTIGUA HACIENDA DE SAN ESTEBAN,Villa Uni#n,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,JUAN MANUEL NAVA SALAS,EJ. VILLA UNION,Villa Uni#n,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Poanas,SIMON GARCIA MANCHA,EJ. VILLA UNION,Villa Uni#n,Bovino Carne,FISICA,$                 350.00
+DURANGO,Poanas,"JUAN FRANCISCO C SNEOS PIEDRAO",EJ. VILLA UNION,Villa Uni#n,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,ARNULFO CRUZ MARTINEZ,LA QUEBRADA,Veracruz,Bovino Carne,FISICA,"$             1,050.00"
+DURANGO,Poanas,MARIA LUISA SANTOS FLORES,EJ. DAMIAN CARMONA,Dami#n Carmona,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Poanas,ALONSO MACIAS PUENTES,LA QUEBRADA,Veracruz,Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Poanas,RUFINO SANTILLAN ROMERO,EJ. DAMIAN CARMONA,Dami#n Carmona,Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,SANTOS HERNANDEZ ORDAZ,EJ. DAMIAN CARMONA,Dami#n Carmona,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Poanas,JUAN ARROYO MACIAS,LA QUEBRADA,Veracruz,Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Poanas,JESUS HINOJOSA MELCHOR,EJIDO NARCISO MENDOZA,Narciso Mendoza,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,LEONEL REYES ANDRADE,EJ LOS ANGELES POANAS,Los #ngeles,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Poanas,LUIS ENRIQUE GARCIA FABELA,EJ. VILLA UNION,Villa Uni#n,Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,MANUEL ZAVALA SOTO,EJ ESTACION POANAS,Estaci#n Poanas,Bovino Carne,FISICA,"$              3,850.00"
+DURANGO,Poanas,PABLO PEREZ SALAZAR,LA QUEBRADA,Veracruz,Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,JORGE SALAZAR HERNANDEZ,LA QUEBRADA,Veracruz,Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,PEDRO SIMENTAL LOERA,18 DE AGOSTO,18 de Agosto,Bovino Carne,FISICA,"$             1,050.00"
+DURANGO,Poanas,EDUARDO GUERRERO BENAVIDES,SAN ESTEBAN,Villa Uni#n,Bovino Carne,FISICA,"$           26,600.00"
+DURANGO,Poanas,MIGUEL REYES ORONA,EJ ESTACION POANAS,Estaci#n Poanas,Bovino Carne,FISICA,"$              2,800.00"
+DURANGO,Poanas,JOSE LUIS MORALES GUERRERO,EJ ESTACION POANAS,Estaci#n Poanas,Bovino Carne,FISICA,"$             2,800.00"
+DURANGO,Poanas,ANTONIO NAJERA SAUCEDO,EJ ESTACION POANAS,Estaci#n Poanas,Bovino Carne,FISICA,"$             2,100.00"
+DURANGO,Poanas,RUFINO SANTILLAN NEJERA,EJ. DAMIAN CARMONA,Dami#n Carmona,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,SANTOS SOSA MARTINEZ,EJIDO NARCISO MENDOZA,Narciso Mendoza,Bovino Carne,FISICA,$                 350.00
+DURANGO,Poanas,GLORIA ARROYO MARTINEZ,EJIDO NARCISO MENDOZA,Villa Uni#n,Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Poanas,ROQUE ALVAREZ CANALES,PREDIO LA JOYA,Francisco Zarco,Bovino Carne,FISICA,"$              4,900.00"
+DURANGO,Poanas,MANUEL MARTINEZ MORENO,EJ. DAMIAN CARMONA,Dami#n Carmona,Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,MARIA ARROYO VALLES,LA QUEBRADA,Veracruz,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Poanas,MARIA DE LOS ANGELES TERRONES SALAZAR,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Poanas,MARCIANA CRUZ MURILLO,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,$                 350.00
+DURANGO,Poanas,AMADOR GARCIA GONZALEZ,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Poanas,ROBERTO MARIN PEREZ,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,FELIPE SALTIJERAL MARTINEZ,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Poanas,ISMAEL GUTIERREZ HINOJOSA,EJIDO NARCISO MENDOZA,Narciso Mendoza,Bovino Carne,FISICA,$                 350.00
+DURANGO,Poanas,LUCIA ARROYO BERMUDEZ,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,JOSE LUIS HECTOR VILLAZANA PEREZ,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Poanas,ANDRES ALVAREZ LOERA,EJ FRANCISCO VILLA,San Aten#genes (La Villita),Bovino Carne,FISICA,$                 700.00
+DURANGO,Poanas,MA. DOLORES SOTO HERNANDEZ,FRACC IV EL LLANO DEL MUERTO,Los #ngeles,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,SALVADOR DE LA O FERNANDEZ,EJIDO SAN ATENOGENES,San Aten#genes (La Villita),Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,ANTONIA GUTIERREZ OLIVAS,EJIDO EL POTOSI,Los #ngeles,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Poanas,RICARDO MORENO ANDRADE,EJ. DAMIAN CARMONA,Dami#n Carmona,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Poanas,JOSE MARTIN GARCIA TERRONES,EJ LA OCHOA,La Ochoa,Bovino Carne,FISICA,"$              1,050.00"

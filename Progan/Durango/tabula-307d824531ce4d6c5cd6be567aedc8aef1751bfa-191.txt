@@ -1,0 +1,55 @@
+DURANGO,Nuevo Ideal,ROBERTO HERNANDEZ LECHUGA,EJ. PINOS ALTOS,Pinos Altos,Bovino Carne,FISICA,"$             2,800.00"
+DURANGO,Nuevo Ideal,JOSE DE JESUS NEVAREZ QUINONES,SAN RAFAEL BELLAVISTA,Tejamen,Bovino Carne,FISICA,"$             3,850.00"
+DURANGO,Nuevo Ideal,AMADA ROJO VALLES,EJ BUENA UNION,Buena Uni#n,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Nuevo Ideal,ANTONIO SORIA GARIBAY,SAN MIGUEL DE ALLENDE,San Miguel de Allende,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Nuevo Ideal,CONSUELO VALDIVIA CONTRERAS,EJIDO RAUL MADERO,Ra#l Madero,Bovino Carne,FISICA,"$             9,450.00"
+DURANGO,Nuevo Ideal,JOSE PILAR RAMOS VELAZQUEZ,EJIDO RAUL MADERO,Ra#l Madero,Bovino Carne,FISICA,"$              7,350.00"
+DURANGO,Nuevo Ideal,NICOLAS LOPEZ GONZALEZ,EJIDO RAUL MADERO,Ra#l Madero,Bovino Carne,FISICA,"$             5,600.00"
+DURANGO,Nuevo Ideal,LAUREANO VAZQUEZ MOLINA,EJ BUENA UNION,Buena Uni#n,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Nuevo Ideal,JOSE ANDRES VAZQUEZ MOLINA,EJ BUENA UNION,Buena Uni#n,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Nuevo Ideal,JAIME CARDOZA GONZALEZ,EJ BUENA UNION,Buena Uni#n,Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,ANTONIO CRODOVA CORTEZ,EJ BUENA UNION,Buena Uni#n,Bovino Carne,FISICA,"$             1,050.00"
+DURANGO,Nuevo Ideal,VALENTIN FERNANDEZ JIMENEZ,MELCHOR OCAMPO,Melchor Ocampo (El Tr#bol),Bovino Carne,FISICA,"$             2,450.00"
+DURANGO,Nuevo Ideal,IGNACIO AVILA ACOSTA,EJIDO LA MAGDALENA,Nuevo Ideal,Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,JUAN LUIS RAMOS CHAVEZ,MELCHOR OCAMPO,Melchor Ocampo (El Tr#bol),Bovino Carne,FISICA,"$             2,100.00"
+DURANGO,Nuevo Ideal,JESUS EDUARDO QUIONES DIAZ,LA BLANCA Y LA ULAMA,Nuevo Ideal,Bovino Carne,FISICA,"$              2,450.00"
+DURANGO,Nuevo Ideal,UBALDO ROSALES GUTIERREZ,EJIDO LA MAGDALENA,Nuevo Ideal,Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,ARTURO NEVAREZ,LA ESMERALDA,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Nuevo Ideal,RAFAEL REYES LECHUGA,EJ. PINOS ALTOS,Pinos Altos,Bovino Carne,FISICA,"$             9,100.00"
+DURANGO,Nuevo Ideal,JOSE MARTINEZ DIAZ,EJ. LIBERTADORES DEL LLANO,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,JOSE EUTIMIO ROJAS ACOSTA,EJ SAN ANTONIO,Astilleros de Abajo,Bovino Carne,FISICA,"$             5,950.00"
+DURANGO,Nuevo Ideal,RICARDO CORRAL DIAZ,EJ SAN ANTONIO,Astilleros de Abajo,Bovino Carne,FISICA,"$              8,750.00"
+DURANGO,Nuevo Ideal,SALVADOR RUIZ GURROLA,EJ. LIBERTADORES DEL LLANO,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,ADAN MARTINEZ DELGADO,EJ. LIBERTADORES DEL LLANO,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,SALVADOR CARDOZA FERNANDEZ,EJ. LIBERTADORES DEL LLANO,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,FRANCISCO LUIS VARELA LECHUGA,VILLAHERMOSA,Villa Hermosa,Bovino Carne,FISICA,"$             6,300.00"
+DURANGO,Nuevo Ideal,AGUSTIN DIAZ CARRERA,EJ. NUEVO IDEAL,Nuevo Ideal,Bovino Carne,FISICA,"$             9,100.00"
+DURANGO,Nuevo Ideal,ALFREDO OROZCO HERNANDEZ,EJ. NUEVO IDEAL,Nuevo Ideal,Bovino Carne,FISICA,"$             5,950.00"
+DURANGO,Nuevo Ideal,JORGE YUVAN LOPEZ LOPEZ,EJ. 11 DE MARZO,Once de Marzo (Trincheras),Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Nuevo Ideal,MANUEL DE JESUS ANAYA SEPULVEDA,EJ. NUEVO IDEAL,Villa Hermosa,Bovino Carne,FISICA,"$              8,050.00"
+DURANGO,Nuevo Ideal,JOSE LUIS VALENZUELA PEREZ,EJIDO IGNACIO M. ALTAMIRANO,Tejamen,Bovino Carne,FISICA,"$             7,350.00"
+DURANGO,Nuevo Ideal,CASIMIRO DE LA CRUZ MACIAS,VILLAHERMOSA,Villa Hermosa,Bovino Carne,FISICA,"$             8,750.00"
+DURANGO,Nuevo Ideal,OCTAVIO MARTINEZ DIAZ,EJ. LIBERTADORES DEL LLANO,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,DANIEL MARTINEZ DIAZ,EJ. LIBERTADORES DEL LLANO,Libertadores del Llano (Santa Sof#a),Bovino Carne,FISICA,$                 700.00
+DURANGO,Nuevo Ideal,JOSE ANTONIO BATREZ ACOSTA,EJ. SAN JOSE DE MORILLITOS,San Jos# de Morillitos (La Perla),Bovino Carne,FISICA,"$              3,150.00"
+DURANGO,Nuevo Ideal,RAFAEL PUENTES CAMPA,EJ. SAN JOSE DE MURILLITOS,San Jos# de Morillitos (La Perla),Bovino Carne,FISICA,"$              3,500.00"
+DURANGO,Nuevo Ideal,OTHON VALDEZ,EJ. PINOS ALTOS,Pinos Altos,Bovino Carne,FISICA,"$              2,100.00"
+DURANGO,Nuevo Ideal,AURELIO NEVAREZ VILLARREAL,EJ. PINOS ALTOS,Pinos Altos,Bovino Carne,FISICA,"$              2,800.00"
+DURANGO,Nuevo Ideal,JUAN FRANCISCO RENTERIA QUINONES,VILLAHERMOSA,Villa Hermosa,Bovino Carne,FISICA,"$           10,150.00"
+DURANGO,Nuevo Ideal,JOSE ANTONIO VILLARREAL HERNANDEZ,EJ. NUEVO IDEAL,Nuevo Ideal,Bovino Carne,FISICA,"$             8,750.00"
+DURANGO,Nuevo Ideal,"RUBEN MARTINEZ VALENZUELa",VILLAHERMOSA,Villa Hermosa,Bovino Carne,FISICA,"$             9,100.00"
+DURANGO,Nuevo Ideal,MAGDALENO NEVAREZ HUERTA,EJ. PINOS ALTOS,Pinos Altos,Bovino Carne,FISICA,"$              2,800.00"
+DURANGO,Nuevo Ideal,JOSE RAMON AGUIRRE HERRERA,EJ. NUEVO IDEAL,Nuevo Ideal,Bovino Carne,FISICA,"$           10,150.00"
+DURANGO,Nuevo Ideal,PEDRO CAMARGO RUIZ,EJIDO IGNACIO M. ALTAMIRANO,Tejamen,Bovino Carne,FISICA,"$              5,950.00"
+DURANGO,Nuevo Ideal,JESUS HERRERA MEDINA,EJIDO IGNACIO M. ALTAMIRANO,Tejamen,Bovino Carne,FISICA,"$             8,750.00"
+DURANGO,Nuevo Ideal,JOHAN WALL THIESSEN,LUGAR DE ROSAS CAMPO 16 LOTE 26,Lugar de Rosas (El Toboso),Bovino Leche,FISICA,"$             9,450.00"
+DURANGO,Nuevo Ideal,ISAAC WALL BRAUN,LUGAR DE ROSAS CAMPO 16 LOTE 27,Lugar de Rosas (El Toboso),Bovino Leche,FISICA,"$             7,700.00"
+DURANGO,Nuevo Ideal,CECILIO SORIA BARRAGAN,EJ. 11 DE MARZO,Once de Marzo (Trincheras),Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Nuevo Ideal,JOSE LUIS CASTRO LUNA,EJIDO GUATIMAPE,Guatimap#,Bovino Carne,FISICA,"$             4,900.00"
+DURANGO,Nuevo Ideal,MARIA DEL PILAR TERRAZAS PRADO,EJIDO BENITO JUAREZ,Benito Ju#rez (Ju#rez de Abajo),Bovino Carne,FISICA,"$              5,950.00"
+DURANGO,Nuevo Ideal,NICOLAS GALINDO,PINOS ALTOS,Pinos Altos,Bovino Leche,FISICA,"$              4,550.00"
+DURANGO,Nuevo Ideal,LEODEGARIO LOPEZ RODRIGUEZ,EJ. 11 DE MARZO,Once de Marzo (Trincheras),Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Nuevo Ideal,JOHAN GUENTHER WALL,JARDIN DE FLORES LOTE 45 CAMPO 2,Jard#n de Flores,Bovino Leche,FISICA,"$             8,750.00"
+DURANGO,Nuevo Ideal,MANUEL DE JESUS CORRAL SANCHEZ,EJ BUENA UNION,Buena Uni#n,Bovino Leche,FISICA,"$              2,800.00"
+DURANGO,Nuevo Ideal,GERARDO VIOLANTE CARDOZA,EJ BUENA UNION,Buena Uni#n,Bovino Carne,FISICA,"$              9,100.00"
+DURANGO,Nuevo Ideal,SALOME RAMIREZ PEREZ,EJIDO IGNACIO M. ALTAMIRANO,Tejamen,Bovino Carne,FISICA,"$              5,950.00"

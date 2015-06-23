@@ -1,0 +1,55 @@
+DURANGO,Santa Clara,RAMIRO FRAIRE SOTO,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$           10,500.00"
+DURANGO,Santa Clara,FERNANDO CARRANZA AGUILAR,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$           11,550.00"
+DURANGO,Santa Clara,MARIA TERESA HERNANDEZ FERNANDEZ,PREDIO SAN JOSE DE FLECHA,San Jos# de Flechas,Bovino Carne,FISICA,"$             7,000.00"
+DURANGO,Santa Clara,ANGEL GUILLERMO CADENA HERNANDEZ,PREDIO SAN JOSE DE FLECHA,San Jos# de Flechas,Bovino Carne,FISICA,"$             5,600.00"
+DURANGO,Santa Clara,GABRIEL GONZALEZ HERRERA,EJIDO SANTA CLARA,Diez de Abril,Bovino Carne,FISICA,"$             5,250.00"
+DURANGO,Santa Clara,MARIA FRAIRE FRAIRE,DIEZ DE ABRIL,Diez de Abril,Bovino Carne,FISICA,"$             1,050.00"
+DURANGO,Santa Clara,URBANO CRUZ GALINDO,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             1,050.00"
+DURANGO,Santa Clara,FRANCISCO AGUILAR AGUERO,PALO BLANCO Y SU ANEXO SAN ANTONIO DE LA LAG,San Antonio de la Laguna,Bovino Carne,FISICA,"$             8,750.00"
+DURANGO,Santa Clara,JOSE LUIS CASAS BELTRAN,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 350.00
+DURANGO,Santa Clara,MANUEL SILVA BELTRAN,EJIDO SANTA CLARA,El Nogalito (Nogales),Bovino Carne,FISICA,"$             2,100.00"
+DURANGO,Santa Clara,JUAN MANUEL GALINDO ARTEA,EJIDO SANTA CLARA,Diez de Abril,Bovino Carne,FISICA,"$             4,550.00"
+DURANGO,Santa Clara,JOSE DEL PILAR FRAIRE ADAME,PALO BLANCO Y SU ANEXO SAN ANTONIO DE LA LAG,San Antonio de la Laguna,Bovino Carne,FISICA,"$              5,600.00"
+DURANGO,Santa Clara,GONZALO RODRIGUEZ GALINDO,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,750.00"
+DURANGO,Santa Clara,ESMIDIO FRAYRE DE LEON,EJIDO SANTA CLARA,San Valent#n,Bovino Carne,FISICA,"$             8,050.00"
+DURANGO,Santa Clara,JOSE CARLOS FRAIRE ALVARADO,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,JOSE MIZAEL GALINDO SOTO,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             2,800.00"
+DURANGO,Santa Clara,RICARDO RODRIGUEZ VITELA,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              2,450.00"
+DURANGO,Santa Clara,MARIA MATILDE GALINDO GALINDO,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,MOISES FRAIRE MUOZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,SILVIO GONZALEZ CASTAEDA,EJIDO SANTA CLARA,Diez de Abril,Bovino Carne,FISICA,"$              4,900.00"
+DURANGO,Santa Clara,EDGAR OMAR AGUILAR AGUILAR,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,ABELARDO VALTIERRA ROJAS,EJIDO SAN MARCOS,El Naranjo,Bovino Carne,FISICA,"$           18,200.00"
+DURANGO,Santa Clara,JULIAN AGUILAR GONZALEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Santa Clara,MELCHOR  HUMBERTO AGUILAR FRAIRE,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,RAFAEL LOZANO MARTINEZ,PALO BLANCO Y SU ANEXO SAN ANTONIO DE LA LAG,San Antonio de la Laguna,Bovino Carne,FISICA,"$              3,500.00"
+DURANGO,Santa Clara,LUIS CHAVEZ GONZALEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              4,200.00"
+DURANGO,Santa Clara,J CARMEN JAQUEZ FAJARDO,EJIDO SAN MARCOS,San Marcos (24 de Febrero),Bovino Carne,FISICA,"$             7,350.00"
+DURANGO,Santa Clara,ADOLFO VALTIERRA PICHARDO,EJIDO SAN MARCOS,San Marcos (24 de Febrero),Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,JUAN LUIS CRUZ FAVILA,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,SILVERIO AGUILAR FRAIRE,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Santa Clara,GERARDO FRAIRE MARTINEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,LUCIO ZARATE CASTANEDA,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Santa Clara,J. SANTOS FAVILA CRUZ,EJIDO SANTA CLARA,El Nogalito (Nogales),Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Santa Clara,MANUEL DE JESUS AGUILAR MONRREAL,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,BRUNO RODRIGUEZ FAVELA,EJ. EL NARANJO,El Naranjo,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,URBANO GUZMAN MARTINEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,J CONCEPCION FERNANDEZ CASAS,FRACC. 6 DE SAN JOSE DE FLECHAS,San Jos# de Flechas,Bovino Carne,FISICA,"$             3,150.00"
+DURANGO,Santa Clara,EFREN CHAVEZ GONZALEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              2,800.00"
+DURANGO,Santa Clara,JOSE ANGEL FAVILA GONZALEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,ALFREDO CASAS PEREZ,SAN JOSE DE FLECHAS,San Jos# de Flechas,Bovino Carne,FISICA,"$              7,350.00"
+DURANGO,Santa Clara,FREDESVINDA FAVILA,EJIDO SANTA CLARA,San Valent#n,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,LUIS AGUILAR AVALOS,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,400.00"
+DURANGO,Santa Clara,JACOBO MARTINEZ PEREZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 350.00
+DURANGO,Santa Clara,JOSE ALFREDO MEZA FAVILA,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             1,050.00"
+DURANGO,Santa Clara,JOSE FELIX GALINDO FAVILA,EJIDO SANTA CLARA,Diez de Abril,Bovino Carne,FISICA,$                 700.00
+DURANGO,Santa Clara,GUILLERMO CRUZ RODRIGUEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              2,450.00"
+DURANGO,Santa Clara,TOMAS BELTRAN AVALOS,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             1,400.00"
+DURANGO,Santa Clara,ZITO MANUEL ESQUIVEL,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             2,100.00"
+DURANGO,Santa Clara,JOSE GUADALUPE ORTIZ GUZMAN,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,$                 350.00
+DURANGO,Santa Clara,MARIA DEL CARMEN CASTAEDA SALDAA,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              1,050.00"
+DURANGO,Santa Clara,HERIBERTO MUOZ AGUILAR,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$              2,800.00"
+DURANGO,Santa Clara,JUANA OLVERA PEREZ,EJ. EL NARANJO,El Naranjo,Bovino Carne,FISICA,"$              3,150.00"
+DURANGO,Santa Clara,ISIDRO OLVERA PEREZ,EJ. EL NARANJO,El Naranjo,Bovino Carne,FISICA,"$              2,100.00"
+DURANGO,Santa Clara,ADALBERTO AGUILAR RIOS,SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             1,750.00"
+DURANGO,Santa Clara,ENRIQUE CRUZ MARTINEZ,EJIDO SANTA CLARA,Santa Clara,Bovino Carne,FISICA,"$             1,050.00"

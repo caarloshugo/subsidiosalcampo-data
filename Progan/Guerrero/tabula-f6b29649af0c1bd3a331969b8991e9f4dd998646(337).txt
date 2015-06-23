@@ -1,0 +1,55 @@
+GUERRERO,Malinaltepec,LORENZO PAULINO CASTRO,CERRO CENIZA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          2,100.00"
+GUERRERO,Malinaltepec,MARIO PRISCILIANO FLORES,CERRO CENIZA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          2,100.00"
+GUERRERO,Malinaltepec,ELEUTERIO BASURTO GALVEZ,HUAMUCHIL,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          4,200.00"
+GUERRERO,Malinaltepec,ANSELMO BASURTO FLORES,EL COCOYUL,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          2,800.00"
+GUERRERO,Malinaltepec,ESPERANZA REA ROJAS,JUQUILITA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          2,100.00"
+GUERRERO,Malinaltepec,FORTINO REA ROJAS,JESUS PERDONADO,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          3,150.00"
+GUERRERO,Malinaltepec,ASUNCION MORAN CANDIA,EL FAIZAN,Loma del Fais#n,Bovino Carne,FISICA,"$          2,450.00"
+GUERRERO,Malinaltepec,LIVIA MENDOZA NERI,LOMA COLORADA,Monte Alegre,Bovino Carne,FISICA,"$          2,100.00"
+GUERRERO,Malinaltepec,FIDEL GERONIMO FELICIANO,PIE DE CERRO ARDILLA,El Rinc#n (Santa Cruz del Rinc#n),Bovino Carne,FISICA,"$          2,450.00"
+GUERRERO,Malinaltepec,ODILON GARCIA CASTILLO,ARROYO OSCURO,El Rinc#n (Santa Cruz del Rinc#n),Bovino Carne,FISICA,"$          2,100.00"
+GUERRERO,Malinaltepec,FERNANDO JUAREZ ROSAS,EL LIMON,El Rinc#n (Santa Cruz del Rinc#n),Bovino Carne,FISICA,"$          2,100.00"
+GUERRERO,Malinaltepec,FRANCISCO NAVARRO FLORES,SIN NOMBRE,El Rinc#n (Santa Cruz del Rinc#n),Bovino Carne,FISICA,"$          3,500.00"
+GUERRERO,Malinaltepec,SERVANDO RODRIGUEZ GARCIA,EL ENCINO,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          4,550.00"
+GUERRERO,Malinaltepec,DOMINGA QUIROZ TAPIA,RANCHO EL TEJERIA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          2,800.00"
+GUERRERO,Malinaltepec,FORTUNATO BASURTO GALVEZ,PUERTO SAN MIGUEL,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          2,800.00"
+GUERRERO,Malinaltepec,BULMARO AVILES MENDOZA,RANCHO ESCORPION,El Rinc#n (Santa Cruz del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,CONSTANTINO FLORES MENDOZA,AGUA ZARCA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,400.00"
+GUERRERO,Malinaltepec,ARTURO REA BELLO,CERRO SAN MARCO,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,NOEL OLGUIN MENDOZA,AGUA ZARCA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,MELITON QUIROZ REA,CERO CENIZA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,MARCELINO GENARO DE JESUS,CIENEGA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,PONCIANO MEJIA SANTIAGUEZ,TIERRA COLORADA,Mes#n de Ixtl#huac,Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,JOSEFINA BASURTO LUIS,CERRO SAN MARCO,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,ADELFO GENARO DE JESUS,CERRO CENIZA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,$              700.00
+GUERRERO,Malinaltepec,FRANCISCO PAULINO CASTRO,PLAN DE LA PAROTA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,400.00"
+GUERRERO,Malinaltepec,ADRIAN PAULINO FLORES,CERRO CENIZA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,050.00"
+GUERRERO,Malinaltepec,FEDERICO MENDOZA SANTANA,LA PAROTA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,ZENAIDA REA ROJAS,CANDELARIA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,BERNARDO LEOVIGILDO REA MENDOZA,EL PAROTA,El Potrerillo (Potrerillo del Rinc#n),Bovino Carne,FISICA,"$          1,750.00"
+GUERRERO,Malinaltepec,MAURICIO VARGAS GUZMAN,SANTA CRUZ DE JUQUILA,El Tejocote,Caprinos,FISICA,"$          2,079.00"
+GUERRERO,Malinaltepec,MAMES CORTES VALDEZ,LOMA CONCHA,Loma Concha,Caprinos,FISICA,"$          2,205.00"
+GUERRERO,Malinaltepec,ALEJANDRO LAURO CASTRO,ALEJANDRO LAURO CASTRO,Tierra Colorada,Abejas,FISICA,"$          5,092.00"
+GUERRERO,Malinaltepec,AGAPITO CANTU MANUEL,LOMA DEL RAYO,San Miguel el Progreso,Abejas,FISICA,"$          5,700.00"
+GUERRERO,Malinaltepec,PEDRO FRANCISCO HUERTA,CABEZA DE TIGRE,San Miguel el Progreso,Abejas,FISICA,"$          5,700.00"
+GUERRERO,Malinaltepec,GABRIEL AVILES BASURTO,APICULTOR,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,CLAUDIA GALVEZ FLORES,APICULTOR,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,ASUNSION GUZMAN BRUNO,APICULTOR,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,CONSTANTINA CANTU ZUNIGA,APICULTOR,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,NARCISA CANTU GUZMAN,XCUA XTATI,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,BERTHA GOMEZ LOPEZ,CARRETERA HACIA ESPINO BLANCO,Colombia de Guadalupe,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,ANTONIA FLORES CANTU,"COL, SAN MARCOS",El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,CRISTINA FLORES CANTU,XKUA XTUTI,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,GALILEO GUZMAN CANTU,EL TEJOCOTE,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,ALBERTO CANDIA FLORES,XKUA XTUTI,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,CAYETANA MENDOZA SANTOS,ENTRADA DE COCOYUL,El Cocoyul,Abejas,FISICA,"$          2,660.00"
+GUERRERO,Malinaltepec,CRECENCIANO CASTRO GALLARDO,BANCO VIEJO,El Cocoyul,Abejas,FISICA,"$           2,660.00"
+GUERRERO,Malinaltepec,CONSTANTINA SANCHEZ SIERRA,MOJONERA MORALES,Tapayoltepec,Abejas,FISICA,"$           1,140.00"
+GUERRERO,Malinaltepec,VILLANUEVA MARTINEZ SANCHEZ,PIE DE CERRO LUNA,Colombia de Guadalupe,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,ERASTO TAPIA BARRAGAN,EL TEJOCOTE,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,AGUSTINA RANULFO HILARIO,SAN MARCOS,El Tejocote,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,HOMOBONO ABURTO JERONIMO,RAYA DEL RINCON,Tierra Colorada,Abejas,FISICA,"$          1,520.00"
+GUERRERO,Malinaltepec,ARQUIMIDES MODESTO DIONICIO,CERRO ZACATON,Colombia de Guadalupe,Abejas,FISICA,$              760.00
+GUERRERO,Malinaltepec,ESPERANZA MARTINEZ JINETE,EL NAZARET,El Cocoyul,Abejas,FISICA,"$           1,900.00"
+GUERRERO,Malinaltepec,CAMILO JINETE MENDOZA,BALLA DE TEZONTEYO,El Cocoyul,Abejas,FISICA,"$           4,560.00"
+GUERRERO,Malinaltepec,ROCIO CANDIA RODRIGUEZ,APICULTOR,El Tejocote,Abejas,FISICA,"$           1,216.00"

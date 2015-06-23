@@ -1,0 +1,55 @@
+﻿GUERRERO,Ajuchitlán del Progreso,EDUARDO GARCIA NERI,SAN PEDRO Y GARZAS,San Pedro y las Garzas,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,APOLINAR GARCIA ORTIZ,EJIDO LA LAJA,La Laja,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MODESTO CERVANTES MEDINA,EJIDO LA LAJA,La Laja,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ANSELMO ALTAMIRANO BUENO,EL PUERTO DEL METATE,Colonia Francisco Villa (Cuadrilla Seca),Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,BASILISO TOLEDO RENTERIA,LAS TINAJAS,Changata,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,CARMELO ESCOBAR CARLOS,LOS PADERES,Agua Escondida,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,VICTOR PABLO PEALOZA,LA BOLA,Corral Falso,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,FRANCISCA GALARZA BUENO,MONTE VERDE,La Hacienda Santa Fe,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,ARNULFO BRITO SOTELO,EJIDO SAN JERONIMO SANTA FE,San Jer#nimo Santa Fe,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,BLAS GARCIA LUCAS,SAN PEDRO Y GARZAS,Las Pi#as,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,RASIEL LUVIANO ARRIZON,LAS MESAS,El Naranjo,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,J TRINIDAD VEGA NESTOR,CARPINTERA,Ajuchitl#n del Progreso,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ALFREDO CARACHURE MOJICA,EJIDO SAN JERONIMO SANTA FE,Mesa de Corrales,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,MA. REYNA CALDERON VALLE,EL CIRIAN,San Bartolo,Ovinos,FISICA
+GUERRERO,Ajuchitlán del Progreso,SALOMON GALINDEZ MIRANDA,EL HUARAQUIAL,San Bartolo,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MOISES BARBOSA OLMEDO,EL CARRIZO COLORADO,San Crist#bal,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,VALENTINA CRUZ MARTINEZ,EL BARRO,Ixcapuzalco,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ALBERTO RAMIREZ ALONSO,EJIDO SAN BARTOLO,Nanche Colorado (El Nanche),Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,FRANCISCO BUENO MEDRANO,SAN PEDRO Y GARZAS,Pinz#n Morado,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MAGDALENA PEREZ DUQUE,EL RANCHITO,El Esp#ritu Santo,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,CONSTANTINA SANTANA URREA,EL RANCHITO,El Esp#ritu Santo,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,SEVERO BUENO OCAMPO,SAN PEDRO Y GARZAS,San Pedro y las Garzas,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,RITA HERRERA GOMEZ,SAN PEDRO Y GARZAS,San Pedro y las Garzas,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ISIDRO ROJAS CORTES,EL JAZMIN,San Crist#bal,Ovinos,FISICA
+GUERRERO,Ajuchitlán del Progreso,ANTONIO VILLA SANCHEZ,LAS TINAJAS,Pocitos del Balc#n,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,VIRGINIA SOTO QUIRINO,MESA EPAZOTES,Pocitos del Balc#n,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,GESITAS GARCIA BENITEZ,EJIDO FRESNOS DE PUERTO RICO,Fresnitos,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ONOFRE MEDEROS SALGADO,LA YACATA,Santa Rosa de Lima,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,SANTOS MANCILLA NAVARRO,EJIDO SANTA ANA DEL AGUILA,Santa Ana del #guila,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,JUAN ALBERTO PEREZ SANTANA,EL BONETE,La Comunidad,Ovinos,FISICA
+GUERRERO,Ajuchitlán del Progreso,OSCAR OCAMPO GARCIA,EL BARRO,Cant#n de Guerrero,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,LEONARDO CAMPOS LAGUNAS,EL RINCON,La Laja,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,PAULA MUNOZ SANTANA,LA BARRA AZUL,San Lorenzo,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,"ALAN WA TER PENAFLORES COELLOO",EL JAZAMIN,San Crist#bal,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ZARAGOZA CHAMU CELESTINO,EL CIRIAN,San Jer#nimo el Grande,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,SIMON EVARISTO GARAY,EL POTRERITO,Zacahuaje,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,JOAQUIN MARTINEZ GONZALES,LA CRUZ DEL HUIJUL,Ajuchitl#n del Progreso,Ovinos,FISICA
+GUERRERO,Ajuchitlán del Progreso,JESUS ANTUNEZ SANDOVAL,LA LAJITA,El Aguaje,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,DELFINO MATIAS PINZON,PEÃ‘A BOLUDA,Guayatenco,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ANTONIO CHAMU TORRES,EL PIE PINTADO,Santa Rosa de Lima,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MARIA ROJO VALLE,EL CHICHALACO,San Sebasti#n (Las Lomas),Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,J INOCENTE CARLOS CHAVANDO,LOS CHIQUIHUITES,El Reparo,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ALEJANDRO SANCHEZ AGUIRRE,LA NOPALERA,Las Anonitas,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,ARTEMIO BELTRAN CHAMU,LA LAJITA,Santa Rosa de Lima,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MAURA CRUZ MENDOZA,LA BENTOZA,Santa Rosa de Lima,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,SALVADOR DIAZ CASTRO,EL CERRITO,Ixcapuzalco,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MA ELISA JULIAN FELICIANO,LAS ANONITAS,Las Anonitas,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,MARIA MANSILLA CALDERON,TIERRA COLORADA,San Pablo Oriente,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,LEONIDES SEVERIANO BAUTISTA,EJIDO LA LAJA,La Laja,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,HERMINIO BAUTISTA DIAZ,EL JAZMIN,Colonia Hidalgo (Llano Grande),Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,EPIFANIO ALMONTES MERCADO,LA GUAJERA,Zapotitl#n,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,LORENZO CARLOS ARCE,CARPINTERA,Ajuchitl#n del Progreso,Bovino Carne,FISICA
+GUERRERO,Ajuchitlán del Progreso,JOSE CRUZ AGUIRRE FIGUEROA,PUERTO GRANDE,Puerto Grande,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,JOSEFA AGUIRRE FIGUEROA,LA FABRICA,Puerto Grande,Bovino Leche,FISICA
+GUERRERO,Ajuchitlán del Progreso,CENORINA GOMEZ CONEJO,SIN NOMBRE,San Crist#bal,Bovino Carne,FISICA
