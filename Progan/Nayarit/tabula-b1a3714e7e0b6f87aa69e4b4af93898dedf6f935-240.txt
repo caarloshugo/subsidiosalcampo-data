@@ -1,0 +1,53 @@
+NAYARIT,Tepic,LIBORIO REYES MARAVILLAS,EL CHIVERO,San Luis de Lozada,Bovino Carne,FISICA,"$             2,100.00"
+NAYARIT,Tepic,MARIA DE JESUS CASAS MARTINEZ,"LA AGUITA, EL POZO",Santiago de Pochotit#n,Bovino Carne,FISICA,"$             2,450.00"
+NAYARIT,Tepic,LUCIO MALDONADO RUIZ,LA HIGUERITA,San Luis de Lozada,Bovino Carne,FISICA,"$             1,400.00"
+NAYARIT,Tepic,JUAN RAMON ORTIZ ZAVALA,LA CUCHARA 1,Camich#n de Jauja,Bovino Carne,FISICA,"$             3,850.00"
+NAYARIT,Tepic,ALFONSO SANCHEZ RODRIGUEZ,CRUZ DE BARTOLO,El Trapichillo,Bovino Carne,FISICA,"$             1,400.00"
+NAYARIT,Tepic,JUAN HERNANDEZ GALLARDO,EL CHILTE,Mesa de Picachos (El Casco),Bovino Carne,FISICA,$                3 50.00
+NAYARIT,Tepic,JUAN HERNANDEZ GALLARDO,EL ENCINO,Mesa de Picachos (El Casco),Bovino Carne,FISICA,$                7 00.00
+NAYARIT,Tepic,REYES PROANO LERMA,LAS CHIVAS,Benito Ju#rez (Las Chivas),Bovino Carne,FISICA,"$             5,250.00"
+NAYARIT,Tepic,LINO LUJAN TORRES,LAS CANTERAS,San Andr#s,Bovino Carne,FISICA,"$             1,050.00"
+NAYARIT,Tepic,ABEL SALAZAR CARRILLO,MOJARRITAS,San Cayetano,Bovino Carne,FISICA,"$             2,100.00"
+NAYARIT,Tepic,ERNESTO CAMPOS ROBLES,LA MESA,Caleras de Cofrados,Bovino Carne,FISICA,"$             2,800.00"
+NAYARIT,Tepic,EULALIO URENDA MEDINA,EL CEDRO,Caleras de Cofrados,Bovino Carne,FISICA,"$             3,500.00"
+NAYARIT,Tepic,JOSE SANTANA CAMPOS DE LA TRINIDAD,EL SAUS 2,Caleras de Cofrados,Bovino Carne,FISICA,$                7 00.00
+NAYARIT,Tepic,ANTONIO MACIAS CASTILLON,LAS CUATAS,Atonalisco,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,J. CONCEPCION GAMBOA CARRILLO,LAS MULAS,Las Blancas (Carretones de Cerritos),Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,CALIXTO POLANCO FRAUSTO,EL CERRO PITONTLE,El Refugio,Bovino Carne,FISICA,"$             3,150.00"
+NAYARIT,Tepic,JOSE INES RODRIGUEZ CASAS,LA PIEDRA GORDA,Santiago de Pochotit#n,Bovino Carne,FISICA,"$             3,150.00"
+NAYARIT,Tepic,HILARIO MEDINA GALICIA,CARRETONES,Los Salazares,Bovino Carne,FISICA,"$             4,200.00"
+NAYARIT,Tepic,ANTONIO MACIAS CASTILLON,LOS BARROS,Atonalisco,Bovino Carne,FISICA,"$             1,400.00"
+NAYARIT,Tepic,JOSE ASUNCION GUZMAN ESCALANTE,EL NARANJO,Atonalisco,Bovino Carne,FISICA,$                3 50.00
+NAYARIT,Tepic,CAROLINA LAZO RIVERA,CRUZ DE PIEDRA,San Luis de Lozada,Bovino Carne,FISICA,"$             3,150.00"
+NAYARIT,Tepic,JOSE PAZ GARCIA IBARRA,EL CUATE,Las Pilas (El Tepeguaje),Bovino Carne,FISICA,"$             1,400.00"
+NAYARIT,Tepic,JOSE ASUNCION GUZMAN ESCALANTE,PALOMA,Atonalisco,Bovino Carne,FISICA,$                3 50.00
+NAYARIT,Tepic,PEDRO MONTANO FLORES,CALERAS VIEJO,Caleras de Cofrados,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,JOSE ASUNCION GUZMAN ESCALANTE,PAREDES,Atonalisco,Bovino Carne,FISICA,$                3 50.00
+NAYARIT,Tepic,J JESUS SANDOVAL MOJARRO,POTRERO DE CLAVELLINAS,Santiago de Pochotit#n,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,JOSE ASUNCION GUZMAN ESCALANTE,POTRERO LAS CRUCES,Atonalisco,Bovino Carne,FISICA,$                3 50.00
+NAYARIT,Tepic,PEDRO RIVERA CASAS,LA ARENERA,Santiago de Pochotit#n,Bovino Carne,FISICA,$                7 00.00
+NAYARIT,Tepic,JOSE PAZ GARCIA IBARRA,EL LIMONCITO,Las Pilas (El Tepeguaje),Bovino Carne,FISICA,"$             1,050.00"
+NAYARIT,Tepic,IRVIN ADRIAN FLORENTINO ESPINOSA,LA PITALLA,San Andr#s,Bovino Carne,FISICA,$                7 00.00
+NAYARIT,Tepic,JOSE PAZ GARCIA IBARRA,LA PALMA,Las Pilas (El Tepeguaje),Bovino Carne,FISICA,"$             1,400.00"
+NAYARIT,Tepic,CESAR RAMIREZ RODRIGUEZ,COYOTES,Atonalisco,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,FRANCISCO MELENDRES ARREDONDO,LAS HIGUERITAS,Caleras de Cofrados,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,GUILLERMO ORTIZ ZAVALA,RANCHO DE LA O/ PUERTA DEL ZORRILLO,Camich#n de Jauja,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,JOSE MARTIN LANDEROS ARREOLA,LAS RAICES,Los Salazares,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,PETRONILO CASTANEDA MACIAS,LAS VELAS,Atonalisco,Bovino Carne,FISICA,"$             1,050.00"
+NAYARIT,Tepic,MIGUEL NUNEZ MEDRANO,LOS TRES VIEJOS Y LOS NEGROS,Caleras de Cofrados,Bovino Carne,FISICA,"$             7,700.00"
+NAYARIT,Tepic,JOSE INES RODRIGUEZ CASAS,LOS SAUCES,Santiago de Pochotit#n,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tepic,PETRONILO CASTANEDA MACIAS,LAS VELAS 3,Atonalisco,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tuxpan,JUAN CARRILLO MURILLO,EL CERRO,Coamiles,Bovino Carne,FISICA,"$             3,150.00"
+NAYARIT,Tuxpan,MIGUEL ANGEL VILLELA GONZALEZ,LA LAGUNA,El Tecomate,Bovino Carne,FISICA,"$             2,800.00"
+NAYARIT,Tuxpan,SILVESTRE JIMENEZ ROMERO,EL CANAL,Coamiles,Bovino Carne,FISICA,"$             4,200.00"
+NAYARIT,Tuxpan,MA. LILIA VIRGEN GONZALEZ,"LAS 7 MATAISAS, EL CERRO,LA LAGUNA, LA LAG",Coamiles,Bovino Carne,FISICA,"$             2,800.00"
+NAYARIT,Tuxpan,JOSE RAFAEL RUBIO AYON,LOS CEDROS,Palma Grande,Bovino Carne,FISICA,"$             2,100.00"
+NAYARIT,Tuxpan,ISIDRO LOPEZ DIAZ,"POZO DE LA SAL, LA HIGUERILLA",Palma Grande,Bovino Carne,FISICA,"$             2,100.00"
+NAYARIT,Tuxpan,FRANCISCO GABRIEL PARTIDA VIRGEN,LA TEJONA,Uni#n de Corrientes,Bovino Carne,FISICA,"$             2,100.00"
+NAYARIT,Tuxpan,ARMANDO DIAZ MEDINA,LA LADRILLERA,Uni#n de Corrientes,Bovino Carne,FISICA,"$             3,500.00"
+NAYARIT,Tuxpan,MARIA SANTOS JUAREZ LOPEZ,S/N,Palma Grande,Bovino Carne,FISICA,"$             3,500.00"
+NAYARIT,Tuxpan,JOSE LUIS OLIVARES NAVARRO,LA LADRILLERA,Uni#n de Corrientes,Bovino Carne,FISICA,"$             1,750.00"
+NAYARIT,Tuxpan,MARIO IBARRA HERRERA,TECUAN,Tuxpan,Bovino Carne,FISICA,"$             2,800.00"
+NAYARIT,Tuxpan,MARGARITO ZAMORANO MONTES,LOS TAMARINDOS,Palma Grande,Bovino Carne,FISICA,"$             7,000.00"
+NAYARIT,Tuxpan,PEDRO MARTINEZ CANARES,"EL TANQUE , LA HISCOLLOLA  Y PUEBLO VIEJO",Tuxpan,Bovino Carne,FISICA,"$             2,100.00"
+NAYARIT,Tuxpan,APOLINAR ESTRADA GALINDO,EL CERRO,Coamiles,Bovino Carne,FISICA,"$             2,800.00"
