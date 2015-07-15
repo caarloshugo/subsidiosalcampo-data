@@ -21391,19 +21391,3 @@ CAMPECHE,Tenabo,MANUEL JESUS SANSORES CHABLE,16 Z-1 P-1,San Fernando,Abejas,FISI
 CAMPECHE,Tenabo,ALFREDO CHAN CHI,SIN NOMBRE,Emiliano Zapata,Abejas,FISICA,"$    4,560.00"
 CAMPECHE,Tenabo,JUAN ANTONIO KU CHAN,S/N,Emiliano Zapata,Abejas,FISICA,"$    4,180.00"
 CAMPECHE,Tenabo,MANUEL CHAN CHI,CASCO SEGUNDO,Emiliano Zapata,Abejas,FISICA,"$    5,320.00"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
